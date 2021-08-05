@@ -1,0 +1,20 @@
+{
+  "name": "dapp-petshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "compile": "truffle compile",
+    "migrate": "truffle migrate",
+    "dev": "lite-server",
+    "test": "truffle test"
+  },
+  "author": "nghiatc",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
