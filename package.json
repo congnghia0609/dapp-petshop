@@ -13,7 +13,7 @@
     "test": "truffle test"
   },
   "author": "nghiatc",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "devDependencies": {
     "lite-server": "^2.3.0"
   },
